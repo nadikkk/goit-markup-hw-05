@@ -129,7 +129,7 @@ body {
   background: var(--accent-color);
   border-radius: 2px;
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   left: 0;
 }
 
